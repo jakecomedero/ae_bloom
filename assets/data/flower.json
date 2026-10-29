@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "productName": "Red Rose Bouquet",
+      "flowerType": "Rose",
+      "productImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500",
+      "price": 1800.0,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "productName": "Sunflower Bright Box",
+      "flowerType": "Sunflower",
+      "productImage": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=500",
+      "price": 2400.0,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "productName": "Pink Tulip Arrangement",
+      "flowerType": "Tulip",
+      "productImage": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=500",
+      "price": 1950.0,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "productName": "White Lily Elegance",
+      "flowerType": "Lily",
+      "productImage": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=500",
+      "price": 2200.0,
+      "inStock": false
+    },
+    {
+      "id": 5,
+      "productName": "Purple Orchid Vase",
+      "flowerType": "Orchid",
+      "productImage": "https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?w=500",
+      "price": 3100.0,
+      "inStock": true
+    }
+  ]
+}
